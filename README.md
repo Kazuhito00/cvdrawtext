@@ -1,5 +1,7 @@
 # cvdrawtext
-cvdrawtext‚ÍOpenCV‚ÅƒtƒHƒ“ƒg‚ðŽw’è‚µ‚Ä•¶Žš‚ð•`‰æ‚·‚éƒNƒ‰ƒX‚Å‚·B
+cvdrawtextã¯OpenCVã§ãƒ•ã‚©ãƒ³ãƒˆã‚’æŒ‡å®šã—ã¦æ–‡å­—ã‚’æç”»ã™ã‚‹ã‚¯ãƒ©ã‚¹ã§ã™ã€‚
+
+![2020-02-18 (2)](https://user-images.githubusercontent.com/37477845/74671846-5a2aa800-51ef-11ea-9866-c95ad68bb781.png)
 
 # Requirement
  
@@ -8,26 +10,26 @@ cvdrawtext‚ÍOpenCV‚ÅƒtƒHƒ“ƒg‚ðŽw’è‚µ‚Ä•¶Žš‚ð•`‰æ‚·‚éƒNƒ‰ƒX‚Å‚·B
  
 # Installation
  
-—˜—p‚µ‚½‚¢PythonƒvƒƒOƒ‰ƒ€‚Æ“¯ŠK‘w‚ÉcvdrawtextƒfƒBƒŒƒNƒgƒŠ‚ðƒRƒs[‚µ‚Ä‚­‚¾‚³‚¢B
+åˆ©ç”¨ã—ãŸã„Pythonãƒ—ãƒ­ã‚°ãƒ©ãƒ ã¨åŒéšŽå±¤ã«cvdrawtextãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’ã‚³ãƒ”ãƒ¼ã—ã¦ãã ã•ã„ã€‚
  
 # Usage
  
-ƒTƒ“ƒvƒ‹‚ÌŽÀs•û–@‚ÍˆÈ‰º‚Å‚·B
-ƒtƒHƒ“ƒg‚Í“¯«‚µ‚Ä‚¢‚È‚¢‚½‚ßA‚¨ŽŽ‚µ‚ÌÛ‚ÍŒãq‚ÌURL‚©‚çƒ_ƒEƒ“ƒ[ƒh‚µ‚ÄŠi”[‚µ‚Ä‚­‚¾‚³‚¢B
+ã‚µãƒ³ãƒ—ãƒ«ã®å®Ÿè¡Œæ–¹æ³•ã¯ä»¥ä¸‹ã§ã™ã€‚
+ãƒ•ã‚©ãƒ³ãƒˆã¯åŒæ¢±ã—ã¦ã„ãªã„ãŸã‚ã€ãŠè©¦ã—ã®éš›ã¯å¾Œè¿°ã®URLã‹ã‚‰ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ã¦æ ¼ç´ã—ã¦ãã ã•ã„ã€‚
  
 ```bash
 python sample.py
 ```
 
 # Note
-ƒTƒ“ƒvƒ‹‚Ì‰æ‘œ‚Í‚¢‚ç‚·‚Æ‚â—l‚ðŽg—p‚µ‚Ä‚¢‚Ü‚·B
+ã‚µãƒ³ãƒ—ãƒ«ã®ç”»åƒã¯ã„ã‚‰ã™ã¨ã‚„æ§˜ã‚’ä½¿ç”¨ã—ã¦ã„ã¾ã™ã€‚
 https://www.irasutoya.com/
 
-ƒTƒ“ƒvƒ‹‰æ‘œ‚Íƒ[ƒƒsƒNƒZƒ‹ƒtƒŠ[ƒtƒHƒ“ƒg—l‚ÌƒtƒHƒ“ƒg‚ð—˜—p‚µ‚Ä‚¢‚Ü‚·B
+ã‚µãƒ³ãƒ—ãƒ«ç”»åƒã¯ã‚¼ãƒ­ãƒ”ã‚¯ã‚»ãƒ«ãƒ•ãƒªãƒ¼ãƒ•ã‚©ãƒ³ãƒˆæ§˜ã®ãƒ•ã‚©ãƒ³ãƒˆã‚’åˆ©ç”¨ã—ã¦ã„ã¾ã™ã€‚
 http://www17.plala.or.jp/xxxxxxx/00ff/
 
 # Author
-‚‹´‚©‚¸‚Ð‚Æ
+é«˜æ©‹ã‹ãšã²ã¨
  
 # License 
 cvdrawtext is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
