@@ -11,6 +11,9 @@ cvdrawtextはOpenCVでフォントを指定して文字を描画するクラス�
 # Installation
  
 利用したいPythonプログラムと同階層にcvdrawtextディレクトリをコピーしてください。
+
+使用方法はsample.pyを参考にしてください。
+
  
 # Usage
  
