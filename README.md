@@ -25,7 +25,7 @@ python sample.py
 サンプルの画像はいらすとや様を使用しています。
 https://www.irasutoya.com/
 
-サンプル画像はゼロピクセルフリーフォント様のx12y20pxScanLineフォントを利用しています。
+サンプル画像はゼロピクセルフリーフォント様の「x12y20pxScanLine」フォントを利用しています。
 http://www17.plala.or.jp/xxxxxxx/00ff/
 
 # Author
